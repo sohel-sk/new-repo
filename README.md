@@ -1,2 +1,3 @@
 # new-repo
-This is new repository
+This is new repository 
+this is edited repository
